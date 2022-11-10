@@ -1,0 +1,222 @@
+2022-11-10 10:03:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Imagine', NULL); [42104-214]
+2022-11-10 10:03:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:03:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it Be', 'Beatles') [42104-214]
+2022-11-10 10:03:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:03:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles');INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:03:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:03:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES (NULL, 'Beatles'); [42104-214]
+2022-11-10 10:03:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:03:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:03:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:05:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:05:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:05:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it Be', 'Beatles') [42104-214]
+2022-11-10 10:05:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:05:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:05:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:05:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:05:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:05:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:05:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:05:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:05:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:05:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it Be', 'Beatles') [42104-214]
+2022-11-10 10:05:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:05:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:05:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:05:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:05:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:05:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:05:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:07:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:07:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:07:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:07:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:07:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:07:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:07:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:07:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:10:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:10:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:10:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:10:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:10:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:10:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:10:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:10:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:10:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:10:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:10:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:10:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:10:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:10:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:10:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:10:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:11:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:11:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:11:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it Be', 'Beatles') [42104-214]
+2022-11-10 10:11:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:11:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:11:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:11:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:11:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:11:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:11:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:12:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:12:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:12:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it Be', 'Beatles') [42104-214]
+2022-11-10 10:12:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:12:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:12:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:12:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:12:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
+2022-11-10 10:12:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found (this database is empty); SQL statement:
+INSERT into songs (Title, Artist) VALUES ('Let it be', 'Beatles'); [42104-214]
+2022-11-10 10:12:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONGS" not found; SQL statement:
+DROP TABLE songs [42102-214]
