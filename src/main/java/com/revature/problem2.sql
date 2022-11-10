@@ -1,4 +1,0 @@
---CREATE TABLE songs(
---    title varchar(100) UNIQUE NOT NULL,
---    artist varchar(100) NOT NULL
---);
