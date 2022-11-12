@@ -24,7 +24,7 @@ public class CreateATable {
             ps.executeUpdate();
 
         } catch (SQLException e) {
-            e.printStackTrace();
+            System.out.println("problem1: " + e.getMessage() + '\n');
         }
     }
 
@@ -40,7 +40,7 @@ public class CreateATable {
             ps.executeUpdate();
 
         } catch (SQLException e) {
-            e.printStackTrace();
+            System.out.println("problem2: " + e.getMessage() + '\n');
         }
     }
 
